@@ -253,7 +253,7 @@ section.pad{padding:110px 0;}
 footer{background:var(--wine-deep); color:rgba(255,250,241,0.75); padding:70px 0 26px;}
 .footer-grid{display:grid; grid-template-columns:1.3fr 1fr 1fr; gap:50px; padding-bottom:44px; border-bottom:1px solid rgba(233,207,149,0.15);}
 .footer-brand{display:flex; gap:14px; align-items:center; margin-bottom:16px;}
-.footer-brand img{width:52px; height:52px; background:#fff; border-radius:50%; padding:4px; object-fit:contain;}
+.footer-brand img{width:125px; height:125px; background:#fff; border-radius:50%; padding:4px; object-fit:contain;}
 .footer-brand div{font-family:'Marcellus'; color:var(--gold-light); font-size:1.15rem;}
 footer h4{color:var(--gold-light); font-family:'Jost'; font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:18px;}
 footer ul{list-style:none;}
